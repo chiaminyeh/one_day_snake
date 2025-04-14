@@ -6,7 +6,8 @@ A simple and nostalgic Snake Game built with Python and Pygame — now featuring
 
 | Player (You) | Snake Body | Food |
 |--------------|-------------|------|
-| ![Player](./Sprites/greensquare.png) | ![Body](./Sprites/bluesquare.png) | ![Strawberry](./Sprites/strawberry.png), ![Watermelon](./Sprites/watermelon.png)* |
+| ![Player](./Sprites/greensquare.png) | ![Body](./Sprites/bluesquare.png) | <img src="./Sprites/strawberry.png" alt="Strawberry" width="40"/> <img src="./Sprites/watermelon.png" alt="Watermelon" width="40"/> |
+
 
 > *Only strawberry is currently used in the game logic. Watermelon is included for future expansion or customization 🍉✨
 
